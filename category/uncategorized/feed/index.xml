@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>simply-static-test</title>
-	<atom:link href="http://hugoriggs.github.io/wordpress-static-test/feed/" rel="self" type="application/rss+xml" />
+	<title>Uncategorized &#8211; simply-static-test</title>
+	<atom:link href="http://hugoriggs.github.io/wordpress-static-test/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>http://hugoriggs.github.io/wordpress-static-test</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Wed, 16 May 2018 05:42:10 +0000</lastBuildDate>
